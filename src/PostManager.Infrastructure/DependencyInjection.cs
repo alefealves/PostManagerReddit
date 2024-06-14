@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace PostManager.Infrastructure
 {
-    public static class DepencyInjection
+    public static class DependencyInjection
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services)
         {
@@ -21,9 +21,7 @@ namespace PostManager.Infrastructure
 
         private static IServiceCollection AddPersistence(this IServiceCollection services)
         {
-            services.AddDbContext<PostManagerContext>(
-                options => options.UseSqlServer("name=ConnectionStrings:Post_Manager")
-            );
+            services.AddDbContext<PostManagerContext>(options => options.UseSqlServer("name=ConnectionStrings:Post_Manager"));
             services.AddScoped<IPostRepository, PostRepository>();
             return services;
         }

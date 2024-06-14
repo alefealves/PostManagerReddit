@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 
 namespace PostManager.ApplicationCore
 {
-    public static class DepencyInjection
+    public static class DependencyInjection
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
-            return services.AddMediatR(options =>
+            services.AddMediatR(options =>
             {
-                options.RegisterServicesFromAssembly(typeof(DepencyInjection).Assembly);
+                options.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly);
             });
 
             return services;

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace PostManager.Infrastructure.Common.Persistence
 {
-    public class PostManagerContext:DbContext
+    public class PostManagerContext : DbContext
     {
-        public PostManagerContext(DbContextOptions<PostManagerContext> options):base(options) { }
+        public PostManagerContext(DbContextOptions<PostManagerContext> options) : base(options) { }
 
         public DbSet<Post> Posts { get; set; }
 
