@@ -22,7 +22,7 @@ namespace PostManager.Infrastructure
         private static IServiceCollection AddPersistence(this IServiceCollection services)
         {
             services.AddDbContext<PostManagerContext>(
-                options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection")
+                options => options.UseSqlServer("name=ConnectionStrings:Post_Manager")
             );
             services.AddScoped<IPostRepository, PostRepository>();
             return services;

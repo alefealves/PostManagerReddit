@@ -13,7 +13,7 @@ namespace PostManager.Infrastructure.Common.Persistence.Configurations.Comments
 {
     public class CommentConfigurations : IEntityTypeConfiguration<Comment>
     {
-        public void Configure(EntityTypeBuilder<Comment> builder) 
+        public void Configure(EntityTypeBuilder<Comment> builder)
         {
             builder.ToTable("Comments");
             builder.HasKey(c => c.Id);
@@ -22,7 +22,7 @@ namespace PostManager.Infrastructure.Common.Persistence.Configurations.Comments
                 .ValueGeneratedNever()
                 .HasConversion(c => c.Value, value => CommentId.Create(value));
             builder.Property(c => c.PostId)
-                .HasColumnName("CommentId")
+                .HasColumnName("PostId")
                 .ValueGeneratedNever()
                 .HasConversion(c => c.Value, value => PostId.Create(value));
         }

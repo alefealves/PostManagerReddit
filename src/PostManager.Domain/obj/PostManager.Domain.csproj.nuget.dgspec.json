@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj": {}
+    "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/PostManager.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj": {
+    "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/PostManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
+        "projectUniqueName": "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/PostManager.Domain.csproj",
         "projectName": "PostManager.Domain",
-        "projectPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
-        "packagesPath": "C:\\Users\\alefealves\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\obj\\",
+        "projectPath": "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/PostManager.Domain.csproj",
+        "packagesPath": "/Users/alefealves/.nuget/packages/",
+        "outputPath": "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alefealves\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alefealves/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

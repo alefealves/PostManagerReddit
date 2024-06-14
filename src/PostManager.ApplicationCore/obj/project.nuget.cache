@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "m4NQLP9iSAU=",
+  "dgSpecHash": "PMLfurvpHzmGm98RppYGXx3owj4Osh6SYZB4qRqETsH3qTWekLrOHqXHF9EAnnqRf4+4UgkwrY2mc8AS7w0iZQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.ApplicationCore\\PostManager.ApplicationCore.csproj",
+  "projectFilePath": "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.ApplicationCore/PostManager.ApplicationCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alefealves\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
-    "C:\\Users\\alefealves\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\alefealves\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/alefealves/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/alefealves/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/alefealves/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

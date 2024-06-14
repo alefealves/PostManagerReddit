@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManager.ApplicationCore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManager.Infrastructure", "src\PostManager.Infrastructure\PostManager.Infrastructure.csproj", "{E12B02CE-48C6-4DC8-BA38-0558D094681B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostoManager.Api", "src\PostoManager.Api\PostoManager.Api.csproj", "{668010E7-4F12-4F3C-9D75-3E75EDECCDC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManager.Api", "src\PostoManager.Api\PostManager.Api.csproj", "{668010E7-4F12-4F3C-9D75-3E75EDECCDC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

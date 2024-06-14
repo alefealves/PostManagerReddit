@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PostManager.Domain
-build_property.ProjectDir = C:\Projetos .Net\PostManager\src\PostManager.Domain\
+build_property.ProjectDir = /Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

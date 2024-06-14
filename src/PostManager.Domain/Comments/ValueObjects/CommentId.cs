@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PostManager.Domain.Comments.ValueObjects
 {
-    public class CommentId: EntityId<Guid>
+    public class CommentId : EntityId<Guid>
     {
         private CommentId(Guid value) : base(value)
         {
@@ -18,7 +18,6 @@ namespace PostManager.Domain.Comments.ValueObjects
         {
             return new CommentId(value);
         }
-
         public static CommentId CreateUnique()
         {
             return new CommentId(Guid.NewGuid());

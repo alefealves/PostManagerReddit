@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HTCr65p/VLQ=",
+  "dgSpecHash": "2OF5CqAfFr1tZAW3OiDxorsUfI0AZyYey9GEjFTa7JqPbZH+gxW5DCQbLR5sf1/A4Gr/A0V8j9/3qYk686yDlQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
+  "projectFilePath": "/Users/alefealves/Projetos/PostManager/PostManagerReddit/src/PostManager.Domain/PostManager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
