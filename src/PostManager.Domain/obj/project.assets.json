@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
       "projectName": "PostManager.Domain",
-      "projectPath": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
+      "projectPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\PostManager.Domain.csproj",
       "packagesPath": "C:\\Users\\alefealves\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Domain\\obj\\",
+      "outputPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alefealves\\AppData\\Roaming\\NuGet\\NuGet.Config",

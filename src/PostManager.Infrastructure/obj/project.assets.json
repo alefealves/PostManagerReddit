@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Infrastructure\\PostManager.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Infrastructure\\PostManager.Infrastructure.csproj",
       "projectName": "PostManager.Infrastructure",
-      "projectPath": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Infrastructure\\PostManager.Infrastructure.csproj",
+      "projectPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Infrastructure\\PostManager.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\alefealves\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Infrastructure\\obj\\",
+      "outputPath": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alefealves\\AppData\\Roaming\\NuGet\\NuGet.Config",

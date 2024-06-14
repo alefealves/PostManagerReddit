@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj": {}
+    "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj": {
+    "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
+        "projectUniqueName": "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
         "projectName": "PostoManager.Api",
-        "projectPath": "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
+        "projectPath": "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
         "packagesPath": "C:\\Users\\alefealves\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\obj\\",
+        "outputPath": "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alefealves\\AppData\\Roaming\\NuGet\\NuGet.Config",

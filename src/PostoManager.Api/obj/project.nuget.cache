@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e5OgMg36S1Q=",
+  "dgSpecHash": "UPOTdF4Iby8=",
   "success": true,
-  "projectFilePath": "C:\\Projetos Delphi\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
+  "projectFilePath": "C:\\Projetos .Net\\PostManager\\src\\PostoManager.Api\\PostoManager.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alefealves\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\alefealves\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

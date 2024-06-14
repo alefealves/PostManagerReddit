@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos Delphi\\PostManager\\",
+  "WorkspaceRootPath": "C:\\Projetos .Net\\PostManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAC03511-9436-4C6A-9947-B1F8CD701170}|src\\PostManager.Domain\\PostManager.Domain.csproj|c:\\projetos delphi\\postmanager\\src\\postmanager.domain\\common\\models\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAC03511-9436-4C6A-9947-B1F8CD701170}|src\\PostManager.Domain\\PostManager.Domain.csproj|c:\\projetos .net\\postmanager\\src\\postmanager.domain\\common\\models\\entityid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC03511-9436-4C6A-9947-B1F8CD701170}|src\\PostManager.Domain\\PostManager.Domain.csproj|solutionrelative:src\\postmanager.domain\\common\\models\\entityid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC03511-9436-4C6A-9947-B1F8CD701170}|src\\PostManager.Domain\\PostManager.Domain.csproj|c:\\projetos .net\\postmanager\\src\\postmanager.domain\\common\\models\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAC03511-9436-4C6A-9947-B1F8CD701170}|src\\PostManager.Domain\\PostManager.Domain.csproj|solutionrelative:src\\postmanager.domain\\common\\models\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValueObject.cs",
-              "DocumentMoniker": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
-              "RelativeDocumentMoniker": "src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
-              "ToolTip": "C:\\Projetos Delphi\\PostManager\\src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
-              "RelativeToolTip": "src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EntityId.cs",
+              "DocumentMoniker": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\Common\\Models\\EntityId.cs",
+              "RelativeDocumentMoniker": "src\\PostManager.Domain\\Common\\Models\\EntityId.cs",
+              "ToolTip": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\Common\\Models\\EntityId.cs",
+              "RelativeToolTip": "src\\PostManager.Domain\\Common\\Models\\EntityId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T15:11:44.604Z",
+              "WhenOpened": "2024-06-14T15:27:47.378Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
+              "RelativeDocumentMoniker": "src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
+              "ToolTip": "C:\\Projetos .Net\\PostManager\\src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
+              "RelativeToolTip": "src\\PostManager.Domain\\Common\\Models\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:11:44.604Z"
             }
           ]
         }
