@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using PostManager.Domain.Posts;
+using PostManager.Domain.Posts.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +14,11 @@ namespace PostManager.Infrastructure.Common.Persistence.Configurations.Posts
     {
         public void Configure(EntityTypeBuilder<Post> builder)
         {
-            throw new NotImplementedException();
+            builder.ToTable("Posts");
+            builder.HasKey(x => x.Id);
+            builder.Property(x => x.Id)
+                .HasColumnName("PostId")
+                .HasConversion(x => x.Value, value => PostId.Create(value));
         }
     }
 }
