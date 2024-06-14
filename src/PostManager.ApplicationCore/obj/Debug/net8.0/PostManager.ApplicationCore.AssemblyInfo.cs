@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostManager.ApplicationCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c382fb7ea03168090ad51e410689f8ffa8eee7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80f737636f7a65ca8968aca4e56a5e2ad6bb3da")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostManager.ApplicationCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostManager.ApplicationCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

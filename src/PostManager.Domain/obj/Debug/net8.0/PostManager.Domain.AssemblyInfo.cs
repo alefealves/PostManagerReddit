@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostManager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ae9dfde146abfda91cfc4712a5d4cdabf75f474")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80f737636f7a65ca8968aca4e56a5e2ad6bb3da")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostManager.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostManager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
